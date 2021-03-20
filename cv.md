@@ -1,4 +1,4 @@
-```<div class="all-together">
+<div class="all-together">
 
 <aside class="aside">![My photo](/photo/photo.jpg) 
 
@@ -148,4 +148,4 @@ I am highly motivated to start my career as a Frontend Web Developer. As a proof
 </div>
 
 </div>
-```
+
