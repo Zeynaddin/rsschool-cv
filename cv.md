@@ -91,7 +91,7 @@ I am highly motivated to start my career as a Frontend Web Developer. As a proof
 <span class="subname">July 2019 - up to now | Gdansk, Poland</span>
 
 *   Daily valuation of 4 Swiss clients, the valuation is based on verifying the differences between accounting entries and transaction on the part of the trustees.
-*   Checking daily movements of individual components affecting the value of the funds and creating reports in accordance with the clients' requirements
+*   Checking daily movements of individual components affecting the value of the funds and creating reports in accordance with the clients' requirements.
 
 </div>
 
