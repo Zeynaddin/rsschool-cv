@@ -101,8 +101,8 @@ I am highly motivated to start my career as a Frontend Web Developer. As a proof
 
 <span class="subname">July 2017 - January 2018| Baku, Azerbaijan</span>
 
-*   Recording transactions in ledger accounts.
-*   Tax reporting in accordance with national legislation of Azerbaijan Republic.
+*   Recording transactions in ledger accounts
+*   Tax reporting in accordance with national legislation of Azerbaijan Republic
 
 </div>
 
