@@ -12,18 +12,22 @@ body {
 }
 .all-together {
   background-color: white;
-  display: flex;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  height: 100%;
 }
 
 .aside {
   background-color: #1e2939;
-  width: 370px;
+  width: 30%;
   color: white;
   line-height: 25px;
+  float: left;
+
+  padding-bottom: 445px;
+  margin-bottom: -445px;
 }
 img {
-  width: 370px;
+  width: 100%;
   height: auto;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -79,6 +83,8 @@ a.link:hover {
   padding-right: 90px;
   padding-top: 110px;
   padding-bottom: 110px;
+  float: left;
+  width: 70%;
 }
 
 .skill-name {
